@@ -1,0 +1,26 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="dm-p3t1085uk-temperature-sensor-driver-with-demo-app" type="demo" format="cmsis" versionSchema="1.0.0" name="p3t1085uk temperature sensor driver with demo app">
+    <display_title>
+        P3T1085UK: ±0.5 °C accurate temperature-to-digital converter
+    </display_title>
+    <overview>
+        <![CDATA[This example demo describes how to configure the accurate temperature sensor P3T1085UK for temperature measurement. This sensor can be used in many industrial and medical applications.]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mcux"></toolchain>
+    </toolchains>
+    <families>
+        <family name="mcx"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="FRDM-MCXN947"></hw>
+    </nxp_compatible_hw>
+    <nxp_ebh_hw>
+        <ebh id="nxp_p3t1085uk_ard"></ebh>
+    </nxp_ebh_hw>
+    <peripherals>
+        <peripheral name="i2c"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="sensor"></category>
+    </categories>
+</data:item>
