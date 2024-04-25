@@ -1,10 +1,11 @@
 ﻿NXP Software Content Register
 
 Name: dm-p3t1085uk-temperature-sensor-driver-with-demo-app
-Version: 1.0
+Version: 2.0
 Outgoing License: BSD-3-Clause
 License File: LICENSE.txt
 Description: This example demo describes how to configure the accurate temperature sensor P3T1085UK for temperature measurement using ISSDK.
 Release location: https://github.com/nxp-appcodehub/dm-p3t1085uk-temperature-sensor-driver-with-demo-app
 Origin: NXP (BSD-3-Clause)
         CMSIS (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0
+		
